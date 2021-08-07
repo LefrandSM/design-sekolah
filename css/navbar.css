@@ -5,5 +5,19 @@
   font-family: sans-serif;
 }
 
-#myNavbar #jurusan {
+.navbar-nav li:hover > .dropdown-menu {
+  display: block;
+  margin-top: -10px;
+  border-left: 3px solid #2c73d2;
+}
+
+.dropdown-submenu .sub-item {
+  display: none;
+  box-sizing: border-box;
+}
+.dropdown-submenu .sub-item:hover {
+  border-left: 3px solid #2c73d2;
+}
+.dropdown-submenu:hover > .dropdown-submenu .sub-item {
+  display: block;
 }
