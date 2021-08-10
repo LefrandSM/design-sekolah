@@ -17,13 +17,17 @@
 
     <link rel="stylesheet" href="css/navbar.css">
     <link rel="stylesheet" href="css/font-family.css">
+<<<<<<< HEAD
     <link rel="stylesheet" href="css/update_terakhir.css">
+=======
+>>>>>>> 5ad2b3aa9cf332219ac70da331888a609149068a
     <link rel="stylesheet" href="css/berita_acara.css">
 
     <title>Berita & Acara | Smk Negeri 4 Payakumbuh</title>
 </head>
 
 <body>
+<<<<<<< HEAD
     <div class="wrap">
 
         <!-- include navbar -->
@@ -82,10 +86,38 @@
                                     <p data-aos="fade">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, quia fuga expedita eveniet dolore quo ut facilis, quisquam quis, impedit voluptatem. Ab earum soluta deserunt? Minima laudantium ipsum incidunt possimus.</p>
                                     <p>20 Agustus 2021</p>
                                 </div>
+=======
+    <!-- include navbar -->
+    <?php include 'navbar.php'; ?>
+    <!-- akhir navbar -->
+
+    <!-- jumbotron -->
+    <div class="jumbotron jumbotron-fluid text-center"></div>
+    <!-- akhir jumbotron -->
+
+    <!-- konten -->
+    <div class="container">
+        <div class="konten" data-aos="fade-up" data-aos-duration="1000">
+            <div class="container berita">
+                <div class="row">
+                    <div class="col-6">
+                        <p class="header-berita" data-aos="fade-right" data-aos-delay="1000" data-aos-duration="1000">News</p>
+                    </div>
+                    <div class="col-6">
+                        <div class="dropdown" data-aos="fade-left" data-aos-delay="1000" data-aos-duration="1000">
+                            <button class="btn dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Kategori
+                            </button>
+                            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                                <a class="dropdown-item" href="#">Action</a>
+                                <a class="dropdown-item" href="#">Another action</a>
+                                <a class="dropdown-item" href="#">Something else here</a>
+>>>>>>> 5ad2b3aa9cf332219ac70da331888a609149068a
                             </div>
                         </div>
                     </div>
                 </div>
+<<<<<<< HEAD
                 <div class="col-lg-4">
                     <?php include 'update_terakhir.php'; ?>
                 </div>
@@ -101,6 +133,47 @@
 
 
     </div>
+=======
+                <div class="judul">
+                    <h1>Siswa mendapat medali emas</h1>
+                </div>
+                <div class="row foto_bio">
+                    <div class="col-lg-4">
+                        <img class="foto_topik" src="img/slider-1.jpg" alt="">
+                    </div>
+                    <div class="col-lg-8">
+                        <p data-aos="fade">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, quia fuga expedita eveniet dolore quo ut facilis, quisquam quis, impedit voluptatem. Ab earum soluta deserunt? Minima laudantium ipsum incidunt possimus.</p>
+                        <p>20 Agustus 2021</p>
+                    </div>
+                </div>
+            </div>
+            <div class="container berita">
+                <div class="judul">
+                    <h1>Siswa mendapat medali emas</h1>
+                </div>
+                <div class="row foto_bio">
+                    <div class="col-lg-4">
+                        <img class="foto_topik" src="img/slider-1.jpg" alt="">
+                    </div>
+                    <div class="col-lg-8">
+                        <p data-aos="fade">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, quia fuga expedita eveniet dolore quo ut facilis, quisquam quis, impedit voluptatem. Ab earum soluta deserunt? Minima laudantium ipsum incidunt possimus.</p>
+                        <p>20 Agustus 2021</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- akhir konten -->
+
+    <!-- footer -->
+    <div class="footer bg-dark text-center text-light py-4">
+        <p>&copy; SamSam Tech. All reversed</p>
+    </div>
+    <!-- akhir footer -->
+
+
+
+>>>>>>> 5ad2b3aa9cf332219ac70da331888a609149068a
 
     <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
     <script>

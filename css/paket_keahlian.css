@@ -20,6 +20,7 @@
 }
 @media (min-width: 992px) {
   body {
+<<<<<<< HEAD
     background-color: #bbb;
   }
   .wrap {
@@ -27,6 +28,8 @@
     box-sizing: border-box;
     margin: auto;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+=======
+>>>>>>> 5ad2b3aa9cf332219ac70da331888a609149068a
     background-color: #eee;
   }
   .konten {
