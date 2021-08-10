@@ -1,9 +1,35 @@
 /* navbar */
 .navbar {
-  position: relative;
   background-color: #2c73d2;
   font-family: sans-serif;
+  font-size: 12px;
+}
+.dropdown-menu {
+  background-color: #1d57a1;
+  font-size: 12px;
+}
+.dropdown-menu a {
+  color: white;
 }
 
-#myNavbar #jurusan {
+.dropdown-submenu .sub-item {
+  display: none;
+  box-sizing: border-box;
+}
+.dropdown-submenu .sub-item:hover {
+  border-left: 3px solid #2c73d2;
+}
+.dropdown-submenu:hover > .dropdown-submenu .sub-item {
+  display: block;
+}
+
+/* DESKTOP VERSION */
+@media (min-width: 992px) {
+  .navbar {
+    width: 992px;
+    margin: auto;
+  }
+  .navbar-nav li:hover > .dropdown-menu {
+    display: block;
+  }
 }
