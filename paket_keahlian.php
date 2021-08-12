@@ -17,17 +17,13 @@
 
     <link rel="stylesheet" href="css/navbar.css">
     <link rel="stylesheet" href="css/font-family.css">
-<<<<<<< HEAD
     <link rel="stylesheet" href="css/update_terakhir.css">
-=======
->>>>>>> 5ad2b3aa9cf332219ac70da331888a609149068a
     <link rel="stylesheet" href="css/paket_keahlian.css">
 
     <title>Berita & Acara | Smk Negeri 4 Payakumbuh</title>
 </head>
 
 <body>
-<<<<<<< HEAD
     <div class="wrap">
 
         <!-- include navbar -->
@@ -161,7 +157,6 @@
 
 
     </div>
-=======
     <!-- include navbar -->
     <?php include 'navbar.php'; ?>
     <!-- akhir navbar -->
@@ -288,7 +283,6 @@
 
 
 
->>>>>>> 5ad2b3aa9cf332219ac70da331888a609149068a
     <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
     <script>
         AOS.init();
