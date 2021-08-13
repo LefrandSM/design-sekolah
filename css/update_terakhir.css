@@ -27,6 +27,6 @@
 @media (min-width: 992px) {
   .update-terakhir {
     margin-top: -70px;
-    border-top-left-radius: 0;
+    border-top-right-radius: 0;
   }
 }
