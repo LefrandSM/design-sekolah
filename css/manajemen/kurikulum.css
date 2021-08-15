@@ -7,6 +7,15 @@
   margin-top: -60px;
 }
 
+/* konten */
+.konten .media {
+  display: flex;
+  align-items: center;
+}
+.media-body {
+  margin-left: 10px;
+}
+
 /* UTILITY */
 .garis-bawah {
   display: block;
@@ -15,6 +24,13 @@
   background-color: #2c73d2;
   border-top-right-radius: 10px;
   border-bottom-right-radius: 10px;
+}
+.header-konten {
+  font-weight: 500;
+  color: #333;
+}
+.isi-konten {
+  color: #333;
 }
 
 @media (min-width: 992px) {
@@ -32,5 +48,6 @@
     background-color: white;
     margin-top: -70px;
     border-top-right-radius: 20px;
+    padding-bottom: 20px;
   }
 }

@@ -45,7 +45,7 @@
             <div class="dropdown-menu" aria-labelledby="navbarDropdownProfile">
               <a class="dropdown-item" href="profile/tentang_sekolah.php">Tentang Sekolah</a>
               <a class="dropdown-item" href="profile/tentang_kepala_sekolah.php">Kepala Sekolah</a>
-              <a class="dropdown-item" href="profile/">Sejarah Sekolah</a>
+              <a class="dropdown-item" href="profile/sejarah_sekolah.php">Sejarah Sekolah</a>
               <a class="dropdown-item" href="profile/visi_misi.php">Visi, Misi dan Filosofi Pendidikan</a>
               <a class="dropdown-item" href="profile/paket_keahlian.php">Paket Keahlian</a>
               <a class="dropdown-item" href="#">Jam Sekolah dan Kalender Tahun Pendidikan</a>
@@ -58,10 +58,10 @@
               Manajemen
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a class="dropdown-item" href="#">Kurikulum</a>
-              <a class="dropdown-item" href="#">Kesiswaan</a>
-              <a class="dropdown-item" href="#">Humas</a>
-              <a class="dropdown-item" href="#">Saran dan Prasarana</a>
+              <a class="dropdown-item" href="manajemen/kurikulum.php">Kurikulum</a>
+              <a class="dropdown-item" href="manajemen/kesiswaan.php">Kesiswaan</a>
+              <a class="dropdown-item" href="manajemen/humas.php">Humas</a>
+              <a class="dropdown-item" href="manajemen/sarana_prasarana.php">Saran dan Prasarana</a>
             </div>
           </li>
           <li class="nav-item dropdown">
