@@ -41,8 +41,8 @@
                     Info
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                    <a class="dropdown-item" href="#">Agenda</a>
-                    <a class="dropdown-item" href="berita_acara.php">Berita & Acara</a>
+                    <a class="dropdown-item" href="../info/agenda.php">Agenda</a>
+                    <a class="dropdown-item" href="../info/berita_acara.php">Berita & Acara</a>
                 </div>
             </li>
             <li class="nav-item dropdown">

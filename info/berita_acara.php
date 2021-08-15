@@ -18,7 +18,7 @@
     <link rel="stylesheet" href="../css/navbar.css">
     <link rel="stylesheet" href="../css/font-family.css">
     <link rel="stylesheet" href="../css/update_terakhir.css">
-    <link rel="stylesheet" href="../css/profile/berita_acara.css">
+    <link rel="stylesheet" href="../css/info/berita_acara.css">
 
     <title>Berita & Acara | Smk Negeri 4 Payakumbuh</title>
 </head>
