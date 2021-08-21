@@ -67,6 +67,7 @@
                                 <div class="col-lg-8">
                                     <p data-aos="fade">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, quia fuga expedita eveniet dolore quo ut facilis, quisquam quis, impedit voluptatem. Ab earum soluta deserunt? Minima laudantium ipsum incidunt possimus.</p>
                                     <p>20 Agustus 2021</p>
+                                    <a href="berita_acara_detail.php">Lihat selengkapnya</a>
                                 </div>
                             </div>
                         </div>
@@ -81,6 +82,7 @@
                                 <div class="col-lg-8">
                                     <p data-aos="fade">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, quia fuga expedita eveniet dolore quo ut facilis, quisquam quis, impedit voluptatem. Ab earum soluta deserunt? Minima laudantium ipsum incidunt possimus.</p>
                                     <p>20 Agustus 2021</p>
+                                    <a href="berita_acara_detail.php">Lihat selengkapnya</a>
                                 </div>
                             </div>
                         </div>
