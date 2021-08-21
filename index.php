@@ -61,7 +61,7 @@
               <a class="dropdown-item" href="manajemen/kurikulum.php">Kurikulum</a>
               <a class="dropdown-item" href="manajemen/kesiswaan.php">Kesiswaan</a>
               <a class="dropdown-item" href="manajemen/humas.php">Humas</a>
-              <a class="dropdown-item" href="manajemen/sarana_prasarana.php">Saran dan Prasarana</a>
+              <a class="dropdown-item" href="manajemen/sarana_prasarana.php">Sarana dan Prasarana</a>
             </div>
           </li>
           <li class="nav-item dropdown">
@@ -74,13 +74,7 @@
             </div>
           </li>
           <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-              Publikasi
-            </a>
-            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a class="dropdown-item" href="#">Karya Seni dan Literasi</a>
-              <a class="dropdown-item" href="#">Galeri</a>
-            </div>
+            <a class="nav-link" href="galeri/galeri.php">Galeri</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#">Lsp</a>
@@ -89,7 +83,7 @@
             <a class="nav-link" href="#">Alumni</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Kontak</a>
+            <a class="nav-link" href="kontak/kontak.php">Kontak</a>
           </li>
       </div>
     </nav>
